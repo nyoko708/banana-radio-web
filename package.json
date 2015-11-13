@@ -1,0 +1,32 @@
+{
+  "name": "banana-radio-web",
+  "version": "1.0.0",
+  "description": "banana radio project web server",
+  "main": "index.js",
+  "dependencies": {
+    "generator-angular": "^0.14.0",
+    "generator-karma": "^1.0.0",
+    "gulp": "^3.9.0",
+    "karma-cli": "^0.1.1",
+    "yo": "^1.5.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.3.2",
+    "karma": "^0.13.15",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-jasmine": "^0.3.6"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyoko708/banana-radio-web.git"
+  },
+  "author": "nyoko708",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyoko708/banana-radio-web/issues"
+  },
+  "homepage": "https://github.com/nyoko708/banana-radio-web#readme"
+}
