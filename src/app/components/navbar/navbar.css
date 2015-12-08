@@ -1,3 +1,30 @@
 .acme-navbar-text {
   color: white;
 }
+
+.navbar-inverse {
+  background-color: #ECFFB0;
+  border-color: #ECFFB0;
+}
+
+.navbar-inverse .navbar-brand {
+  font-family: 'Lemon', cursive;
+  font-size: 28px;
+  color: #2E8F00;
+ }
+
+ .navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+   color: #163501;
+   background-color: transparent;
+ }
+
+ .navbar-inverse .navbar-nav>li>a {
+   text-decoration: underline;
+   font-size: 18px;
+   color: #837800;
+ }
+
+ .navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+   color: #163501;
+   background-color: transparent;
+ }
